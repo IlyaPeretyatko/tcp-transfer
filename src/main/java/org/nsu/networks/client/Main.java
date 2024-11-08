@@ -17,7 +17,7 @@ public class Main {
                 e.printStackTrace();
             }
         } else {
-            System.err.println("Usage: -port <int>");
+            System.err.println("Usage: -port <int> -address <ip> -path <path>");
         }
     }
 }
